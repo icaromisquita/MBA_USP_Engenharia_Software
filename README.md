@@ -67,7 +67,7 @@ git clone https://github.com/seu-usuario/seu-repositorio.git
 Instale as dependências:
 
 Bash
-pip install pandas numpy tensorflow scikeras scikit-learn matplotlib seaborn
+pip install -r requirements.txt
 Certifique-se de que os datasets (AneelAzulTECorrigido.csv ou AneelVerdeTECorrigido.csv) estejam na pasta ./dataset/.
 
 Execute o Jupyter Notebook ou o script Python.
